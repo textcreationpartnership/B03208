@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The extortioners and stock-jobbers, detected. Or, an infallible receipt for the circulation of money.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03208</idno>
+            <idno type="STC">Wing E3903</idno>
+            <idno type="STC">ESTC R176898</idno>
+            <idno type="EEBO-CITATION">51617672</idno>
+            <idno type="OCLC">ocm 51617672</idno>
+            <idno type="VID">175223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175223)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2722:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The extortioners and stock-jobbers, detected. Or, an infallible receipt for the circulation of money.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Legal tender --  England --  Early works to 1800.</term>
+               <term>Finance, Public --  England --  Early works to 1800.</term>
+               <term>Usury --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:175223:1" rendition="simple:additions"/>
+            <head>THE EXTORTIONERS AND <hi>Stock-Iobbers, detected.</hi> Or, An Infallible Receipt for the Circulation of Money.</head>
+            <p>OUR Fore-fathers in former days had ſo great an Averſion againſt Ex<g ref="char:EOLhyphen"/>ceſſive Uſury, that they look'd upon the Uſurers as void of all Hu<g ref="char:EOLhyphen"/>manity and Chriſtianity, and as a Mark of their Diſpleaſure, would not ſuffer them to have a Chriſtian Burial. It may be of good Service to have ſome ſuch Mark put upon them now, to ſhew the diſlike of this Age, who are in a great meaſure undone by them.</p>
+            <p>Theſe cruel ill-natur'd Monſters are the deſtroyers and devourers of moſt Mens Subſtance, by their unreaſonable Dealings and Extorting Uſuries, proſecuting their own Covetous and Evil Deſigns, having no regard to the Laws of God, and breaking through all the Laws of Men, as if they were to give no Account in this World nor the next. But ſince theſe Catter-pillars have made havock and ſpoil at their own Will and Pleaſure, it is high time to inform them, That there are Laws already made as a Scourge for all ſuch Vermin; there are a great many honeſt Engliſh-men, that are true Lovers of their King and Country, that will proſecute theſe Offenders, and endeavour to make them ſenſible of their bold and barefac'd Frauds, that are at this time of day put upon moſt of his Majeſty's good Sub<g ref="char:EOLhyphen"/>jects, who are drove to unexpreſſable Streights and Neceſſities, by their Tricks and Contrivances, by keeping the Money and hindering its Currancy, on purpoſe to drive the People into great Wants, that thereby they might make the better Markets of them, exacting from them, Five, Ten, Fifteen, and Twenty <hi>per Cent.</hi> beſides lawful Intereſt, and not without extraordinary Secu<g ref="char:EOLhyphen"/>rity, ſuch as Plate or Land, by which means Money is become an abſolute Commodity, to almoſt the ruin of ſome Thouſands of the honeſt trading Men in the Kingdom, for they will never lay Moneys out in Goods, when they can by their unlawful Practiſes make much more of their Money than by lay<g ref="char:EOLhyphen"/>ing it out in Commodities, ſo that Trade muſt ſtop, and all Buſineſs ſtand ſtill if the Laws be not put in Execution: In order thereunto you have here a Co<g ref="char:EOLhyphen"/>py of an of Parliament, which we heartily wiſh may by Authority be com<g ref="char:EOLhyphen"/>manded to be read publickly in all the Churches in <hi>England</hi> every <hi>Sunday</hi> in the year, to prevent future Frauds and Extortion.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Act_of_Parliament">
+                        <head>An ACT for the Reſtraining the taking of Exceſſive Uſury, <hi>Anno duodecimo</hi> CAROLI <hi>Secundi Regis, Cap.</hi> XIII.</head>
+                        <p>
+                           <hi>FOraſmuch as the Abatement of Interest from Ten in the Hundred in former times, hath been found by notable Experience beneficial to the Advancement of Trade, and Improvements of Lands by good Husbandry, with many other conſi<g ref="char:EOLhyphen"/>derable Advantages to this Nation, eſpecially the Reducing of it to nearer Pro<g ref="char:EOLhyphen"/>portion with Foreign Statutes with whom we Traffick. And whereas in freſh memo<g ref="char:EOLhyphen"/>ry the like Fall from Eight to Six in the Hundred, by a late conſtant Practice hath found the like Succeſs, to the general Contentment of this Nation, as is viſibly by ſe<g ref="char:EOLhyphen"/>veral
+<pb n="2" facs="tcp:175223:2" rendition="simple:additions"/>Improvements: And whereas it is the endeavour of ſome at preſent to Reduce it back again in practice to the allowance of the Statute ſtill in force to Eight in the Hundred, to the great diſcouragement of Ingenuity, and Induſtry in Husbandry, Trade and Commerce in this Nation:</hi>
+                        </p>
+                        <p n="2">II. <hi>Be it for the Reaſons aforeſaid Enacted by the King's most Excellent Maje<g ref="char:EOLhyphen"/>ſty, and the Lords and Commons in this preſent Parliament aſſembled, That no Per<g ref="char:EOLhyphen"/>ſon or Perſons whatſoever, from and after the Twenty ninth day of</hi> September <hi>in the Year of our Lord One thouſand ſix hundred and ſixty, upon any Contract ſhall from and after the ſaid Twenty ninth of</hi> September, <hi>take directly or indirectly, for Loan of any Moneys, Wares, Merchandiſe, or other Commodities whatſoever, above the value of Six pounds for the forbearance of One hundred pounds for a year, and ſo after that Rate for a greater or leſſer Sum, or for a longer or ſhorter time: And that all Bonds, Contracts, and Aſſurances whatſoever, made after the time aforeſaid, for payment of any Principal, or Money to be lent, or Covenant to be performed upon or for any <g ref="char:V">Ʋ</g>ſury, whereupon or whereby there ſhall be reſerved or taken above the Rate of Six pounds in the Hundred, as aforeſaid, ſhall be utterly void: And that all and every Perſon or Perſons whatſoever, which ſhall after the time aforeſaid, upon any Contract to be made, after the ſaid Twenty ninth day of</hi> September, <hi>take, accept and receive, by way or means of any corrupt Bargain, Loan, Exchange, Cheviſaunce, Shift, or Interest of any Wares, Merchandiſe, or other thing or things whatſoever, or by any deceitful way or means, or by any Covin, Engine, or deceitful Conveyance for the forbearing or giving Day of Payment for one whole Year, of and for their Money or other thing, above the Sum of Six pounds, for the forbearing of One hun<g ref="char:EOLhyphen"/>dred pounds for a Year, and ſo after that Rate for a greater or leſſer Sum, or for a longer or ſhorter Term, ſhall forfeit and loſe, for every ſuch offence, the treble value of the Moneys, Wares, Merchandiſe, and other things ſo Lent, Bargained, Sold, Exchanged or Shifted.</hi>
+                        </p>
+                        <p n="3">III. <hi>And be it further Enacted by the Authority aforeſaid, That all and every Scri<g ref="char:EOLhyphen"/>vener and Scriveners, Broker and Brokers, Solicitor or Solicitors, Driver and Dri<g ref="char:EOLhyphen"/>vers of Bargains for Contracts, who ſhall after the ſaid Twenty ninth day of</hi> Septem<g ref="char:EOLhyphen"/>ber, <hi>take or receive, directly or indirectly, any Sum or Sums of Money, or other Re<g ref="char:EOLhyphen"/>ward or Thing, for Brokage, Soliciting, Driving, or Procuring the Loan, or For<g ref="char:EOLhyphen"/>bearing any Sum or Sums of Money, over and above the Rate or Value of Five ſhil<g ref="char:EOLhyphen"/>lings for the Loan, or Forbearing of One hundred pound for a year, and ſo rate<g ref="char:EOLhyphen"/>ably, or above Twelve pence for making or renewing of the Bond or Bill for Loan, or Forbearing thereof, or for any Counter-Bond or Bill concerning the ſame, ſhall forfeit for every ſuch Offence Twenty pounds, and have Impriſonment for half a year; The one Moiety of all which Forfeitures to be to the King our Soveraign Lord, his Heirs and Succeſſors, and the other Moiey to him or them that will ſue for the ſame, in the ſame County where the ſame Offences were committed, and not elſewhere, by Action of Debt, Bill, Plaint or Information, in which no Eſſoign of Law or Pro<g ref="char:EOLhyphen"/>tection to be allowed.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>It hath been a Queſtion put by thoſe that have ſuffered by Jobbers in Tal<g ref="char:EOLhyphen"/>lies and Bank Bills, <hi>Whether this Statute does affect theſe unreaſonable Practices?</hi> Their beſt way to be informed therein, is to adviſe with able Counſel.</p>
+            <p>But by this Act we ſee the great Councel and Wiſdom of the Nation, in former times, fore-ſaw and well conſidered that the raiſing the Intereſt of Money, or leaving to the liberty of the People to value it as they pleaſe, would not only be a ruin to Ingenuity, Induſtry, and Trade, but alſo undo the Kingdom; and therefore in their great Wiſdom, did ſet Bounds and Limits, and made this good and wholſome Law, which at this time of day is hoped will ſave us from ruin. And certainly the Extortioners and Stock-Jobbers would never have been ſo impudent, as to put what price they pleaſe upon Money, if they did
+<pb n="3" facs="tcp:175223:2" rendition="simple:additions"/>not think themſelves out of the reach of the Law, or that the Laws, when made, to be of no effect: But time muſt convince them, wherein we hope to ſee this Law ſo well applied, that it will prove a ſmart Rod for both the Knaves and Fools Backs. Walk but to the <hi>Royal Exchange,</hi> and you will preſently ſee how the Face of Affairs are there altered (occaſion'd only by theſe ill-look'd Monſters) the Buſineſs of the <hi>Exchange</hi> uſed to be ſelling of Commodities; but now, What price bank Bills ? What Security for Money? Nothing but Plate or Land, at Ten, Fifteen, Twenty, or more <hi>per Cent.</hi> By theſe unrea<g ref="char:EOLhyphen"/>ſonable Practiſes we plainly ſee that this was the true Cauſe why the King was not ſupplied, as we have found by woful Experience. They tell you that Money is of a greater value than ever, and therefore they ought to make the beſt of it. Self-intereſt may plead for it, but the Notion is notoriouſly falſe: For indeed Money is at no time of any greater value than what the Law hath put upon it; and no Subject dare warrant the taking of more than Six <hi>per Cent.</hi> but is liable to be Indicted upon the Statute of Exceſſive Uſury. It's true, the King gives a greater Intereſt than Six <hi>per Cent.</hi> the Reaſon is, to encourage the Subject to ſpeedily ſupply the Neceſſities of the Kingdom, (but not with<g ref="char:EOLhyphen"/>out a Law firſt made). The Subject ought to live in ſubjection to the Law, and content himſelf with Six <hi>per Cent.</hi> until he hath Liberty by Law to do o<g ref="char:EOLhyphen"/>therwiſe. It's of a dangerous Conſequence to ſuffer the People to take a great<g ref="char:EOLhyphen"/>er Intereſt for Money than the King gives himſelf; for then the Government will never be ſupplyed, as we have already ſeen. Therefore the Neck of this Roguery muſt be broke, or the Nation undone.</p>
+            <p>It's no wonder that theſe daring Creatures break through all Laws, when they dare ſpit in the Face of the Law-makers; for if the Parliament makes any Law that prevents their unjuſt Practiſes, they immediately put a mark upon thoſe Members. The laſt Seſſions of Parliament, there were great Debates be<g ref="char:EOLhyphen"/>fore the Houſe could ſettle the Coin (occaſioned alſo by theſe Tools). They have alſo printed a Liſt of all the Members, with a mark upon them that were for lowering the Guinea's and ſettling the Silver; not ſparing to ſay in publick, That they were not Friends to the Government. But if there be no Law to puniſh them for their open Affronts, in due time the Parliament may make one.</p>
+            <p>It's very plain that theſe Extortioners and Stock-Jobbers never cried up the Riſe of Silver and the Riſe of Gold, that the Kingdom in general might be the better, but that they themſelves might have gained extravagant Sums of Money, that had great Caſh by them: And it is alſo as plainly ſeen, That the Money being brought to its due weight and ſtandard, hath had this good ef<g ref="char:EOLhyphen"/>fect already, the Exchange from <hi>Holland</hi> being Thirty ſix ſhillings nine pence of our ſide, which would not have been, if the Money had been ſetled as they would have had it.</p>
+            <p>Indeed, theſe ſurly Creatures do ſtill retain their Anger, and are reſolved to have another touch at Parliament to raiſe the Guinea's and the Silver, and get a Conſideration for their Clipt Money being ſtill in hopes of obtaining their Ends, have kept up great Sums of Money, which hath been another Reaſon that hath obſtructed the Currancy of Money. That they have kept it up appears thus: At the Tenth of <hi>April</hi> Guinea's were to go for no more than Two and twenty ſhillings, and the Fourth of <hi>May</hi> was Clipt Money to be no more made uſe of, ſo that at that time, we had no Money for currancy, but the old broad Money, and ſmall parcels of old Mill'd, and in a few days ſcarcely a Guinea to be ſeen, which plainly ſhews they were very ſullen, reſolving to keep them up, and not to loſe by them, never reckoning what they had got unlawfully by them.</p>
+            <p>There is one Reaſon more that will convince you in a little time, and that is, If they do apply themſelves to the Parliament, the next Seſſions, you may then be ſure they have kept up the Moneys: and that you may be the bet<g ref="char:EOLhyphen"/>ter
+<pb n="4" facs="tcp:175223:3"/>ſatisfied in the truth thereof, the Monſters ſhall be deſcribed to you; They have many Names, and they are of divers Shapes; ſome are old, and ſome young; their Haunts will be in the <hi>Court of Request,</hi> or in the <hi>Lobby,</hi> or among the Foot-boys on the Stairs. But if you do not know them by their Shapes, you will certainly know them by their Cry, <hi>Raiſe the Guinea's, Raiſe the Silver, and allow for Clipt Money, or we are all undone:</hi> (meaning we Extortioners and Stock-Jobbers.)</p>
+            <p>The <hi>Jews,</hi> who were a cunning and ſubtle People, well knew the Diſtracti<g ref="char:EOLhyphen"/>ons and Diſorders that would have befall'n them, if their weight and ſtand-hard had been corrupted; to prevent which they kept the Shekel of Gold and the Shekel of Silver in the Sanctuary, as ſacred as the Law of <hi>Moſes;</hi> and they always had regard to the weight of the Shekel in the Sanctuary. From whence we may learn, That if our Laws did not protect and prevent the Corruptions of Coin, Weights in Meaſures, we ſhould ſoon be in Confuſion, and ſhould not know how to deal one with another.</p>
+            <p>It's demonſtrably true, That the late Act of Parliament for Punching of all old broad Money, for preventing its being clipt, is very little regarded, which gives a very juſt ſuſpicion of theſe Extortioners and Stock-Jobbers having a further Deſign, and that they will make a great buſtle and ſtruggle to get an al<g ref="char:EOLhyphen"/>lowance for the clipt Money, alledging the Country People will all be undone, when indeed moſt of them hath ſuſtained already to loſs. But the Deſign muſt be deeper laid: For if the Parliament ſhould adhere to make an allowance for the clipt Money that is in their hands, then all the old broad Money un<g ref="char:EOLhyphen"/>punched, muſt once more come into the Clippers hands, and ſo the Nation make good another piece of their Roguery.</p>
+            <p>It's further obſerved, That their barbarous Contrivances in keeping up the Coin of the Kingdom, for the Reaſons before mentioned, hath brought us in<g ref="char:EOLhyphen"/>to theſe following Evils, That the middle Trading-men of the Nation are in a worſe Condition that the common Beggars; they cannot ſell their Commo<g ref="char:EOLhyphen"/>dities for Money, nor can they receive their Debts, and all manner of Friend<g ref="char:EOLhyphen"/>ſhip deſtroyed; and if they go to borrow Money they are laught at, unleſs they give them their unreaſonable Demands. What muſt theſe poor People do? either ſtarve or beg. Nay, many of theſe Monſters themſelves refuſe paying their own Debts, making uſe of the common Neceſſitous Cry, <hi>Is this a time to part with Money, or pay Debts?</hi> when the true Reaſon is, whilſt they keep the People out of their Money, they Trade with it upon unconſcionable Uſu<g ref="char:EOLhyphen"/>ry. Therefore, that they may have a juſt Reward, according to their Merits, it is thought adviſable to publiſh this following</p>
+            <div type="notice">
+               <head>ADVERTISEMENT.</head>
+               <p>THIS is to give Notice, That there is a conſiderable Diſcovery already made of great Numbers of theſe unreaſonable Men, who are deep in theſe unwarrantable Practiſes, and are to be ſpeedily proſecuted: Therefore thoſe honest Gentlemen, and others that are Lovers of Justice, and their Countries welfare, who have been in the like manner uſed, having been obliged in their Neceſſity to give the Extortioners and Stock-Jobbers their unreaſonable Demands, If they pleaſe to meet a <hi>Will</hi>'s Coffee-houſe in the <hi>Court of Requeſt</hi> the Twentieth inſtant, being the first day of the ſitting of the Parliament, there they may be informed what proper Methods are to be taken for their Relief.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> E. Whitlock <hi>near</hi> Stationers-Hall. <hi>1696.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
